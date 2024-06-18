@@ -104,7 +104,8 @@ impl Askable for SingleMatchingQuestion {
             .parse()
             .unwrap_or(0);
 
-        let is_correct = self.definition.get(answer - 1) == Some(&self.correct_answer);
+        let is_correct =
+            answer != 0 && self.definition.get(answer - 1) == Some(&self.correct_answer);
         print_result(is_correct, &self.correct_answer);
         is_correct
     }
