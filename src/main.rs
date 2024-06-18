@@ -1,3 +1,4 @@
+use ansi_term::Color;
 use rand::seq::SliceRandom;
 use rand::thread_rng;
 use serde::Deserialize;
@@ -147,13 +148,18 @@ fn get_user_input(prompt: &str) -> String {
 
 fn print_result(is_correct: bool, correct_answer: &str) {
     if is_correct {
-        println!("정답!\n");
+        println!("{}", Color::Green.paint("정답!\n"));
     } else {
-        println!("오답! 정답은 {}\n", correct_answer);
+        println!(
+            "{} 정답은 {}\n",
+            Color::Red.paint("오답입니다!"),
+            Color::Green.paint(correct_answer)
+        );
     }
 }
 
 fn main() {
+    ansi_term::enable_ansi_support().ok();
     // let data = fs::read_to_string("questions.yaml").expect("파일을 읽을 수 없습니다");
     let data = include_str!("../data.yaml");
     let questions: Questions = serde_yaml::from_str(&data).expect("YAML 파싱 실패");
@@ -238,13 +244,22 @@ fn main() {
     let mut question_count = 0;
     for question in all_questions[range.clone()].iter() {
         question_count += 1;
-        println!("챕터 {} ({}/{})", question.1, question_count, range.len());
+        println!(
+            "챕터 {} ({}/{})",
+            Color::Yellow.bold().paint(question.1.to_string()),
+            Color::Yellow.paint(question_count.to_string()),
+            Color::Yellow.paint(range.len().to_string())
+        );
         if question.0.ask() {
             score += 1;
         }
     }
 
-    println!("총 {} 문제 중 {} 개 맞췄습니다!", range.len(), score);
+    println!(
+        "총 {} 문제 중 {} 개 맞췄습니다!",
+        Color::Yellow.paint(question_count.to_string()),
+        Color::Yellow.paint(score.to_string())
+    );
     println!("나가려면 아무 키나 누르세요...");
     get_user_input("");
 }
