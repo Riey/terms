@@ -159,6 +159,7 @@ fn print_result(is_correct: bool, correct_answer: &str) {
 }
 
 fn main() {
+    #[cfg(windows)]
     ansi_term::enable_ansi_support().ok();
     // let data = fs::read_to_string("questions.yaml").expect("파일을 읽을 수 없습니다");
     let data = include_str!("../data.yaml");
