@@ -238,7 +238,7 @@ fn main() {
         let mut rng = thread_rng();
         all_questions.shuffle(&mut rng);
         let num_questions: usize = input.trim().parse().unwrap_or(5);
-        0..num_questions
+        0..num_questions.min(all_questions.len())
     };
 
     let mut score = 0;
