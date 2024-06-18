@@ -246,7 +246,7 @@ chapters:
       - question: "Dent/o, dent/i, and odont/o mean __________________ ."
         answer: "teeth"
     spelling:
-      - question: "Circle the term that is spelled correctly."
+      - question: "twisting of the intestine."
         options: ["vulvulus", "volvulus", "volvolus"]
         answer: "volvulus"
       - question: "inability to relax the smooth muscles of the digestive tract."
@@ -378,7 +378,7 @@ chapters:
       - question: "Excretion, elimination, and voiding mean __________________________________ ."
         answer: "elimination of a substance"
     spelling:
-      - question: "Circle the term that is spelled correctly."
+      - question: "examination of urine components."
         options: ["urinanalysis", "urinalysis", "urinealisis"]
         answer: "urinalysis"
       - question: "functional unit of the kidney."
@@ -505,7 +505,7 @@ chapters:
       - question: "Blood passes through one last valve, the ____________________________, before it enters the aorta and flows to various parts of the body."
         answer: "aortic valve"
     spelling:
-      - question: "Circle the term that is spelled correctly."
+      - question: "bluish tinge to the skin and mucous membranes."
         options: ["cianosis", "cyianosis", "cyanosis"]
         answer: "cyanosis"
       - question: "below-normal levels of carbon dioxide."
@@ -627,7 +627,7 @@ chapters:
       - question: "Ventilation and breathing mean _______________________________________ ."
         answer: "the process of moving air in and out of the lungs"
     spelling:
-      - question: "Circle the term that is spelled correctly."
+      - question: "abnormal condition of the lung that usually involves inflammation and congestion of the lung."
         options: ["pnuemonia", "pneumonia", "pnuemohnia"]
         answer: "pneumonia"
       - question: "interruption of breathing resulting in lack of oxygen."
@@ -755,7 +755,7 @@ chapters:
       - question: "Somat/o means ________________________________________________ ."
         answer: "body"
     spelling:
-      - question: "Circle the term that is spelled correctly."
+      - question: "gland that has both exocrine and endocrine function."
         options: ["pancrease", "pancreus", "pancreas"]
         answer: "pancreas"
       - question: "substance that increases urine secretion."
@@ -867,7 +867,7 @@ chapters:
       - question: "Sperm/o and spermat/o mean ________________________ ."
         answer: "sperm"
     spelling:
-      - question: "Circle the term that is spelled correctly."
+      - question: "developmental defect in which one or both testes fail to descend into the scrotum."
         options: ["cryptorchidism", "criptorchidism", "cryptorchydism"]
         answer: "cryptorchidism"
       - question: "inflammation of the mammary glands: mastis mastitis masitits"
