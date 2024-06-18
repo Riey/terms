@@ -235,8 +235,10 @@ fn main() {
     };
 
     let mut score = 0;
+    let mut question_count = 0;
     for question in all_questions[range.clone()].iter() {
-        println!("챕터 {}", question.1);
+        question_count += 1;
+        println!("챕터 {} ({}/{})", question.1, question_count, range.len());
         if question.0.ask() {
             score += 1;
         }
