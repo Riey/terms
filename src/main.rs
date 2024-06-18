@@ -243,4 +243,6 @@ fn main() {
     }
 
     println!("총 {} 문제 중 {} 개 맞췄습니다!", range.len(), score);
+    println!("나가려면 아무 키나 누르세요...");
+    get_user_input("");
 }
