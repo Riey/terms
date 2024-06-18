@@ -1,0 +1,884 @@
+chapters:
+  - chapter: 5
+    multiple_choice:
+      - question: "A neutered male sheep or goat is a(n)"
+        options: ["bull", "ovine", "wether", "caprine"]
+        answer: 'c'
+      - question: "A sexually imperfect, usually sterile female calf born as a twin with a male calf is a"
+        options: ["heifer", "freemartin", "gilt", "filly"]
+        answer: 'b'
+      - question: "A cross between a stallion and a jenny is a"
+        options: ["donkey", "mule", "jenny", "hinny"]
+        answer: 'd'
+      - question: "Cow is to mare as steer is to"
+        options: ["stallion", "ridgling", "colt", "gelding"]
+        answer: 'd'
+      - question: "Parrots are in a group of birds called"
+        options: ["amazon", "psittacine", "lagomorph", "murine"]
+        answer: 'b'
+      - question: "In canines, the act of giving birth is"
+        options: ["whelping", "pupping", "packing", "gestation"]
+        answer: 'a'
+      - question: "Male and female ferrets are called"
+        options: ["jacks and jills, respectively", "kits and jills, respectively", "hobs and jills, respectively", "jacks and kits, respectively"]
+        answer: 'c'
+      - question: "A young llama is called a"
+        options: ["calf", "cria", "clutch", "colt"]
+        answer: 'b'
+      - question: "Freshening is a term that means"
+        options: ["cleaning an animal to make it smell fresh", "giving birth to a dairy animal", "the act of mating in cattle", "removing the horns of a bovine to enhance mating"]
+        answer: 'b'
+      - question: "Giving birth to swine is called"
+        options: ["barrowing", "queening", "farrowing", "tupping"]
+        answer: 'c'
+      - question: "Tom is to queen as hob is to"
+        options: ["doe", "bitch", "jill", "cow"]
+        answer: 'c'
+      - question: "An intact male rabbit is known as a"
+        options: ["stud", "stallion", "buck", "gander"]
+        answer: 'c'
+      - question: "A young female bovine that has not given birth is called a"
+        options: ["cow", "stag", "calf", "heifer"]
+        answer: 'd'
+      - question: "A female equine that has never been bred is known as a"
+        options: ["ridgeling mare", "brood mare", "maiden mare", "barren mare"]
+        answer: 'c'
+      - question: "A group of eggs is known as a"
+        options: ["flock", "clutch", "poult", "herd"]
+        answer: 'b'
+      - question: "The symbol for female is"
+        options: ["f", "I", "o", "o+"]
+        answer: 'd'
+      - question: "A ram is to a wether as a bull is to a"
+        options: ["barrow", "steer", "gelding", "gib"]
+        answer: 'b'
+      - question: "A mule is an offspring of a"
+        options: ["male donkey and a female pony", "male pony and a female horse", "male horse and a female donkey", "male donkey and a female horse"]
+        answer: 'd'
+      - question: "Giving birth to rabbits is known as"
+        options: ["whelping", "farrowing", "freshening", "kindling"]
+        answer: 'd'
+      - question: "A group of dogs is known as a"
+        options: ["pack", "herd", "flock", "gaggle"]
+        answer: 'a'
+    matching:
+      - question: "Match the species common name with its taxonomic name."
+        pairs:
+          - term: "cattle"
+            definition: "bovine"
+          - term: "cat"
+            definition: "feline"
+          - term: "pig"
+            definition: "porcine"
+          - term: "parrot"
+            definition: "psittacine"
+          - term: "rat"
+            definition: "murine"
+          - term: "dog"
+            definition: "canine"
+          - term: "sheep"
+            definition: "ovine"
+          - term: "mouse"
+            definition: "murine"
+          - term: "donkey"
+            definition: "equine"
+          - term: "horse"
+            definition: "equine"
+          - term: "goat"
+            definition: "caprine"
+      - question: "Match the female name with its species."
+        pairs:
+          - term: "bitch"
+            definition: "dog"
+          - term: "queen"
+            definition: "cat"
+          - term: "dam"
+            definition: "mouse or rat"
+          - term: "hen"
+            definition: "chicken"
+          - term: "ewe"
+            definition: "sheep"
+          - term: "doe"
+            definition: "goat"
+          - term: "goose"
+            definition: "goose"
+          - term: "jill"
+            definition: "ferret"
+          - term: "mare"
+            definition: "horse"
+          - term: "cow"
+            definition: "bovine"
+    fill_in_the_blanks:
+      - question: "A young dog is called a(n) __________________ or __________________ ."
+        answer: "whelp, pup"
+      - question: "A young cat is called a(n) __________________ ."
+        answer: "kitten"
+      - question: "A young horse is called a(n) __________________ ."
+        answer: "weanling"
+      - question: "A young bovine is called a(n) __________________ ."
+        answer: "calf"
+      - question: "A young goat is called a(n) __________________ ."
+        answer: "kid"
+      - question: "A young sheep is called a(n) __________________ ."
+        answer: "lamb"
+      - question: "A young swine is called a(n) __________________ or __________________ ."
+        answer: "pig, piglet"
+      - question: "Young rabbits or ferrets are called __________________ ."
+        answer: "kits"
+      - question: "Young mice or rats are called __________________ ."
+        answer: "pups"
+      - question: "A young llama is called a(n) __________________ ."
+        answer: "cria"
+      - question: "A group of rabbits is called a(n) __________________ ."
+        answer: "herd"
+      - question: "A group of cattle is called a(n) __________________ ."
+        answer: "herd"
+      - question: "A group of turkeys is called a(n) __________________ ."
+        answer: "poult"
+      - question: "A group of sheep is called a(n) __________________ ."
+        answer: "flock"
+      - question: "A group of goats is called a(n) __________________ ."
+        answer: "herd"
+      - question: "An ostrich up to 2 days old is called a(n) __________________ ."
+        answer: "hatchling"
+      - question: "A ratite less than 6 months of age is called a(n) __________________ ."
+        answer: "chick"
+      - question: "A young deer is called a(n) __________________ ."
+        answer: "fawn"
+      - question: "A young castrated male chicken is called a(n) __________________ ."
+        answer: "capon"
+      - question: "A group of eggs is called a(n) __________________ ."
+        answer: "clutch"
+  - chapter: 6
+    multiple_choice:
+      - question: "Mixing of ingesta in the intestine is called"
+        options: ["propulsion", "peristalsis", "segmentation", "separation"]
+        answer: 'c'
+      - question: "Abnormal accumulation of fluid in the abdomen is called"
+        options: ["ascites", "effusion", "icterus", "bloat"]
+        answer: 'a'
+      - question: "Telescoping of one part of the intestine into an adjacent part is called"
+        options: ["volvulus", "diverticulum", "parenchyma", "intussusception"]
+        answer: 'd'
+      - question: "The small intestine is attached to the dorsal abdominal wall by the"
+        options: ["peritoneum", "emesis", "mesentery", "omentum"]
+        answer: 'c'
+      - question: "Eating and licking of abnormal substances is called"
+        options: ["coprophagy", "pica", "dysphagia", "polyphagia"]
+        answer: 'b'
+      - question: "Inflammation of the mouth is"
+        options: ["stomatitis", "orititis", "dentitis", "osititis"]
+        answer: 'a'
+      - question: "Straining, painful defecation is called"
+        options: ["strangstolia", "colostrangia", "tenesmus", "epulis"]
+        answer: 'c'
+      - question: "A tumor of the liver is a"
+        options: ["hematoma", "hemoma", "hepatoma", "hemotoma"]
+        answer: 'c'
+      - question: "Marked wasting or excessive leanness is"
+        options: ["evaluation", "elimination", "emesis", "emaciation"]
+        answer: 'd'
+      - question: "Forced feeding or irrigation through a tube passed into the stomach is called"
+        options: ["gavage", "drench", "bolus", "cachexia"]
+        answer: 'a'
+      - question: "The combining form for the first part of the large intestine is"
+        options: ["ile/o", "cec/o", "duoden/o", "jejun/o"]
+        answer: 'b'
+      - question: "The muscular, wavelike movement used to transport food through the digestive system is"
+        options: ["mastication", "peristalsis", "anastomosis", "regurgitation"]
+        answer: 'b'
+      - question: "The part of the tooth that contains a rich supply of nerves and blood vessels is the"
+        options: ["enamel", "dentin", "pulp", "cementum"]
+        answer: 'c'
+      - question: "Buccal means"
+        options: ["pertaining to the cheek", "pertaining to the tongue", "pertaining to the throat", "pertaining to the palate"]
+        answer: 'a'
+      - question: "Stomat/o means"
+        options: ["mouth", "cheek", "stomach", "intestine"]
+        answer: 'a'
+      - question: "The term for erosion of tissue is"
+        options: ["melena", "plaque", "shunt", "ulcer"]
+        answer: 'd'
+      - question: "The narrow passage between the stomach and the duodenum is the"
+        options: ["ileum", "pylorus", "peritoneum", "mesentery"]
+        answer: 'b'
+      - question: "Incontinence means"
+        options: ["prolonged transit time", "dribbling urine", "loose stool", "inability to control"]
+        answer: 'd'
+      - question: "A drug used to prevent vomiting is known as an"
+        options: ["emetic", "atresic", "antiemetic", "antiemaciation"]
+        answer: 'c'
+      - question: "The formation of a new opening from the large intestine to the surface of the body is known as a(n)"
+        options: ["enterostomy", "colostomy", "colectomy", "enterotomy"]
+        answer: 'b'
+    matching:
+      - question: "Match the term with the definition."
+        pairs:
+          - term: "chyme"
+            definition: "semifluid mass of partly digested food"
+          - term: "bile"
+            definition: "substance made by the liver that helps with fat digestion"
+          - term: "glycogen"
+            definition: "stored energy present in the liver"
+          - term: "rugae"
+            definition: "folds present in the mucosa of the stomach"
+          - term: "mastication"
+            definition: "breaking food into smaller pieces and mixing with saliva"
+          - term: "aerophagia"
+            definition: "swallowing of air"
+          - term: "trypsin"
+            definition: "enzyme that digests protein"
+          - term: "amylase"
+            definition: "enzyme that digests starch"
+          - term: "villus"
+            definition: "tiny hairlike projection on the small intestine"
+          - term: "assimilation"
+            definition: "absorption"
+    fill_in_the_blanks:
+      - question: "Gloss/o and lingu/o mean __________________ ."
+        answer: "tongue"
+      - question: "Or/o and stomat/o mean __________________ ."
+        answer: "mouth"
+      - question: "Cheil/o and labi/o mean __________________ ."
+        answer: "lips"
+      - question: "Abdomin/o, celi/o, and lapar/o mean __________________ ."
+        answer: "abdomen"
+      - question: "Dent/o, dent/i, and odont/o mean __________________ ."
+        answer: "teeth"
+    spelling:
+      - question: "Circle the term that is spelled correctly."
+        options: ["vulvulus", "volvulus", "volvolus"]
+        answer: "volvulus"
+      - question: "inability to relax the smooth muscles of the digestive tract: achalsia achalasia achaelasia"
+        options: ["achalsia", "achalasia", "achaelasia"]
+        answer: "achalasia"
+      - question: "yellow discoloration of the skin and mucous membranes: jaundise jawndise jaundice"
+        options: ["jaundise", "jawndise", "jaundice"]
+        answer: "jaundice"
+      - question: "remove or expose internal organs: eviserate eviscerate evicerate"
+        options: ["eviserate", "eviscerate", "evicerate"]
+        answer: "eviscerate"
+      - question: "abnormal accumulation of fluid in the abdomen: ascites asites ascetes"
+        options: ["ascites", "asites", "ascetes"]
+        answer: "ascites"
+  - chapter: 7
+    multiple_choice:
+      - question: "The combining forms for kidney are"
+        options: ["ren/o and ureter/o", "ren/o and nephr/o", "ren/o and cyst/o", "ren/o and periren/o"]
+        answer: 'b'
+      - question: "Inflammation of the kidney is"
+        options: ["nephrosis", "nephroptosis", "nephritis", "nephropathy"]
+        answer: 'c'
+      - question: "Insertion of a hollow tube through the urethra into the urinary bladder is called"
+        options: ["cystocentesis", "cystogram", "urinary injection", "urinary catheterization"]
+        answer: 'd'
+      - question: "The hormone produced by the kidney that stimulates red blood cell production in the bone marrow is"
+        options: ["ADH", "erythropoietin", "aldosterone", "renerythogenin"]
+        answer: 'b'
+      - question: "Retrograde means"
+        options: ["going backward", "going forward", "going sideways", "repeating"]
+        answer: 'a'
+      - question: "Examination of the components of urine is a"
+        options: ["urinoscopy", "cystoscopy", "urinalysis", "cystolysis"]
+        answer: 'c'
+      - question: "Inflammation of the urinary bladder is"
+        options: ["cystitis", "urolithiasis", "urology", "uritis"]
+        answer: 'a'
+      - question: "UTI is the abbreviation for"
+        options: ["urinary treatment for infection", "urinary tract infection", "urinary tract inflammation", "urinary trigone infarct"]
+        answer: 'b'
+      - question: "Stable internal environment is"
+        options: ["stricture", "status", "homeostasis", "isostatic"]
+        answer: 'c'
+      - question: "Diuretics are chemical substances that"
+        options: ["cause painful urination", "cause complete cessation of urine", "cause nighttime urination", "cause an increase in urine production"]
+        answer: 'd'
+      - question: "The triangular part of the urinary bladder is the"
+        options: ["calyx", "hilus", "medulla", "trigone"]
+        answer: 'd'
+      - question: "The term for production of urine is"
+        options: ["urinogenesis", "uropoiesis", "turbidity", "renogenesis"]
+        answer: 'b'
+      - question: "Inability to control excretory functions is"
+        options: ["inappropriate urination", "urinary retention", "incontinence", "urethritis"]
+        answer: 'c'
+      - question: "The medical term for excessive urination is"
+        options: ["pyuria", "polyuria", "polydipsia", "pollakiuria"]
+        answer: 'b'
+      - question: "Oliguria means"
+        options: ["scanty or little urine", "blood in urine", "frequent urination", "excessive urination"]
+        answer: 'a'
+      - question: "The term for frequent urination is"
+        options: ["scanty or little urine", "dysuria", "stranguria", "pollakiuria"]
+        answer: 'd'
+      - question: "A surgical incision into the urinary bladder is known as"
+        options: ["cystectomy", "cystotomy", "cystopexy", "cystostomy"]
+        answer: 'b'
+      - question: "The presence of urea or other nitrogenous elements in the blood is called"
+        options: ["uremia", "diuresis", "azotemia", "proteinuria"]
+        answer: 'c'
+      - question: "Obstruction of blood flow to the kidney(s) is"
+        options: ["dialysis", "azotemia", "prerenal infarction", "renal infarction"]
+        answer: 'd'
+      - question: "The term that means no urine production is"
+        options: ["diuresis", "anuria", "nocturia", "hematuria"]
+        answer: 'b'
+    matching:
+      - question: "Match the term with the definition."
+        pairs:
+          - term: "bacteriuria"
+            definition: "presence of bacteria in urine"
+          - term: "glycosuria or glucosuria"
+            definition: "glucose (sugar) in urine"
+          - term: "nocturia"
+            definition: "excessive urination at night"
+          - term: "proteinuria"
+            definition: "presence of proteins in urine"
+          - term: "anuria"
+            definition: "complete suppression of urine production"
+          - term: "oliguria"
+            definition: "scanty or little urine"
+          - term: "albuminuria"
+            definition: "presence of the major blood protein in urine"
+          - term: "stranguria"
+            definition: "slow or painful urination"
+          - term: "polyuria"
+            definition: "increased urination"
+          - term: "pyuria"
+            definition: "pus in urine"
+          - term: "pollakiuria"
+            definition: "frequent urination"
+          - term: "ketonuria"
+            definition: "presence of ketones in urine"
+          - term: "crystalluria"
+            definition: "crystals in urine"
+          - term: "dysuria"
+            definition: "difficult or painful urination"
+          - term: "hematuria"
+            definition: "blood in urine"
+          - term: "diuresis"
+            definition: "elevated urine excretion"
+          - term: "calculus"
+            definition: "stone"
+          - term: "cortical"
+            definition: "pertaining to the outer portion of an organ"
+          - term: "erythropoietin"
+            definition: "hormone produced by the kidney that stimulates red blood cell production"
+          - term: "cystitis"
+            definition: "inflammation of the urinary bladder"
+    fill_in_the_blanks:
+      - question: "Urin/o and ur/o mean ____________________________________________ ."
+        answer: "urine or urinary organs"
+      - question: "Ren/o and nephr/o mean __________________________________________ ."
+        answer: "kidney"
+      - question: "Glycosuria and glucosuria mean _______________________________________ ."
+        answer: "glycose in urine"
+      - question: "Cystolith and urolith mean __________________________________________ ."
+        answer: "urinary bladder stone"
+      - question: "Excretion, elimination, and voiding mean __________________________________ ."
+        answer: "elimination of a substance"
+    spelling:
+      - question: "Circle the term that is spelled correctly."
+        options: ["urinanalysis", "urinalysis", "urinealisis"]
+        answer: "urinalysis"
+      - question: "functional unit of the kidney: nephron nefron nephrone"
+        options: ["nephron", "nefron", "nephrone"]
+        answer: "nephron"
+      - question: "constant internal environment: homostasis homeostasis homeostatis"
+        options: ["homostasis", "homeostasis", "homeostatis"]
+        answer: "homeostasis"
+      - question: "excessive thirst: polydipsia polydypsia polydyspsia"
+        options: ["polydipsia", "polydypsia", "polydyspsia"]
+        answer: "polydipsia"
+      - question: "abnormal mineral deposit: calkulus kalkulus calculus"
+        options: ["calkulus", "kalkulus", "calculus"]
+        answer: "calculus"
+  - chapter: 8
+    multiple_choice:
+      - question: "Disease of heart muscle is"
+        options: ["cardiopathy", "cor pulmonale", "cardiovalvopathy", "cardiomyopathy"]
+        answer: 'd'
+      - question: "Heart enlargement is"
+        options: ["cardiac swelling", "cardiac augmentation", "cardiac dilation", "cardiomegaly"]
+        answer: 'd'
+      - question: "Blood flow through tissue is"
+        options: ["ischemia", "infarct", "auscultation", "perfusion"]
+        answer: 'd'
+      - question: "The blood vessels that carry blood from the heart to the lungs are the"
+        options: ["pulmonary veins", "pulmonary arteries", "vena cava", "aorta"]
+        answer: 'b'
+      - question: "The contraction phase of the heartbeat is the"
+        options: ["septum", "diastole", "systole", "tachycardia"]
+        answer: 'c'
+      - question: "A disease produced by treatment is known as"
+        options: ["idiopathic", "iatrogenic", "congenital", "hereditary"]
+        answer: 'b'
+      - question: "The term for the external layer of the heart is the"
+        options: ["myocardium", "endocardium", "pericardium", "epicardium"]
+        answer: 'd'
+      - question: "The right atrioventricular valve is also known as the"
+        options: ["mitral valve", "semilunar valve", "tricuspid valve", "bicuspid valve"]
+        answer: 'c'
+      - question: "The double-walled membranous sac enclosing the heart is the"
+        options: ["peritoneum", "pericardium", "perimyocardium", "pericardosis"]
+        answer: 'b'
+      - question: "A partition or wall separating something is called a"
+        options: ["septum", "valve", "lumen", "plaque"]
+        answer: 'a'
+      - question: "A localized area of necrosis caused by an interrupted blood supply is"
+        options: ["ischemia", "resuscitation", "pulse", "infarct"]
+        answer: 'd'
+      - question: "Introduction of whole blood or blood components into the bloodstream of the recipient is a(n)"
+        options: ["embolism", "thrombus", "transfusion", "stent"]
+        answer: 'c'
+      - question: "A bypass or diversion is called a"
+        options: ["preload", "shunt", "stent", "tourniquet"]
+        answer: 'b'
+      - question: "Cor means"
+        options: ["abnormality", "vessel", "heart", "valve"]
+        answer: 'c'
+      - question: "Cow is to mare as steer is to"
+        options: ["stallion", "ridgling", "colt", "gelding"]
+        answer: 'd'
+      - question: "The myocardium receives its blood supply from the"
+        options: ["aorta", "coronary arteries", "vena cava", "subclavian artery"]
+        answer: 'b'
+      - question: "Which heart valve is also known as the biscupid valve?"
+        options: ["aortic semilunar valve", "pulmonary semilunar valve", "mitral valve", "tricuspid valve"]
+        answer: 'c'
+      - question: "Which heart chamber pumps blood to the lungs?"
+        options: ["left atrium", "left ventricle", "right atrium", "right ventricle"]
+        answer: 'd'
+      - question: "Hemostasis means"
+        options: ["control of bleeding", "formation of new blood", "introduction of whole blood", "present at birth"]
+        answer: 'a'
+      - question: "A deficiency in blood supply is called"
+        options: ["infarct", "ischemia", "prophylaxis", "dilation"]
+        answer: 'b'
+      - question: "The opening in a vessel through which fluid flows is known as a"
+        options: ["hilum", "perfusion", "murmur", "lumen"]
+        answer: 'd'
+    matching:
+      - question: "Match the term with the definition"
+        pairs:
+          - term: "perfusion"
+            definition: "blood flow through tissues"
+          - term: "heart murmur"
+            definition: "abnormal sound associated with the turbulent flow of blood"
+          - term: "constriction"
+            definition: "narrowing of a vessel diameter"
+          - term: "vasculitis"
+            definition: "inflammation of a blood or lymph vessel"
+          - term: "dilation"
+            definition: "widening of a vessel diameter"
+          - term: "hematoma"
+            definition: "collection of blood"
+          - term: "capillaries"
+            definition: "single-cell-thick vessels that connect the arterial and venous systems"
+          - term: "veins"
+            definition: "vessels that return blood to the heart"
+          - term: "arteries"
+            definition: "vessels that carry blood away from the heart"
+          - term: "prophylaxis"
+            definition: "prevention"
+    fill_in_the_blanks:
+      - question: "Angi/o and vas/o mean ___________________________________________________________."
+        answer: "vessel"
+      - question: "Ven/o and phleb/o mean __________________________________________________________."
+        answer: "vein"
+      - question: "Valv/o and valvul/o mean __________________________________________________________."
+        answer: "valve"
+      - question: "Cardi/o and cor mean ____________________________________________________________."
+        answer: "heart"
+      - question: "Holo- and pan- mean _____________________________________________________________."
+        answer: "whole, entire"
+      - question: "Blood enters the heart through two large veins called the ____________________________ and ____________________________, which empty blood into the ____________________________."
+        answer: "superior vena cava, inferior vena cava, right atrium"
+      - question: "Blood flows from the right atrium to the right ventricle through the ____________________________, which also is called the ____________________________."
+        answer: "right atrioventricular valve, tricuspid valve"
+      - question: "After blood enters the right ventricle, it passes through the ____________________________ and enters the lungs via the ____________________________."
+        answer: "pulmonary valve, pulmonary arteries"
+      - question: "Blood becomes oxygenated in the lungs and returns to the heart via the ____________________________."
+        answer: "pulmonary veins"
+      - question: "Once blood enters the left atrium, it passes through the ____________________________ or ____________________________ on its way to the ____________________________."
+        answer: "left atrioventricular valve, mitral valve, left ventricle"
+      - question: "Blood passes through one last valve, the ____________________________, before it enters the aorta and flows to various parts of the body."
+        answer: "aortic valve"
+    spelling:
+      - question: "Circle the term that is spelled correctly."
+        options: ["cianosis", "cyianosis", "cyanosis"]
+        answer: "cyanosis"
+      - question: "below-normal levels of carbon dioxide: hypokapnea hypocapnia hypocapnea"
+        options: ["hypokapnea", "hypocapnia", "hypocapnea"]
+        answer: "hypocapnia"
+      - question: "widening of a vessel: vasodialation vasodilation vasodilatation"
+        options: ["vasodialation", "vasodilation", "vasodilatation"]
+        answer: "vasodilation"
+      - question: "relaxation of the heart: diastole diastoly diastooly"
+        options: ["diastole", "diastoly", "diastooly"]
+        answer: "diastole"
+      - question: "contraction of the ventricles: systole sistolle sistole"
+        options: ["systole", "sistolle", "sistole"]
+        answer: "systole"
+  - chapter: 9
+    multiple_choice:
+      - question: "The wall that divides the nasal cavity is called the"
+        options: ["nasodivision", "nares", "nasal septum", "nasal meatus"]
+        answer: 'c'
+      - question: "Parts of the respiratory tract contain thin hairs called"
+        options: ["flagella", "naris", "surfactant", "cilia"]
+        answer: 'd'
+      - question: "An abnormal condition of blue discoloration is called"
+        options: ["bluing", "cyanosis", "xanthochromia", "erythemia"]
+        answer: 'b'
+      - question: "Inhaling a foreign substance into the upper respiratory tract is called"
+        options: ["asphyxiation", "effusion", "atelectasis", "aspiration"]
+        answer: 'd'
+      - question: "Hypoxia is"
+        options: ["below-normal levels of oxygen", "above-normal levels of oxygen", "below-normal levels of carbon dioxide", "below-normal levels of carbon dioxide and oxygen"]
+        answer: 'a'
+      - question: "Liquid that reduces alveolar surface tension is called"
+        options: ["surfactant", "mucus", "rhinorrhea", "mucorrhea"]
+        answer: 'a'
+      - question: "A condition following as a consequence of disease is a(n)"
+        options: ["chronic condition", "acute condition", "sequela", "consequensosis"]
+        answer: 'c'
+      - question: "A substance that works against, controls, or stops a cough is a(n)"
+        options: ["bronchoconstrictor", "bronchodilator", "mucolytic", "antitussive"]
+        answer: 'd'
+      - question: "Abnormal accumulation of blood in the pleural cavity is"
+        options: ["hemothorax", "hemoptysis", "hemopleuritis", "hemopneumonia"]
+        answer: 'a'
+      - question: "A growth or mass protruding from a mucous membrane is a"
+        options: ["nasogastric", "polyp", "bifurcation", "stridor"]
+        answer: 'b'
+      - question: "Tubes that bifurcate from the trachea are known as"
+        options: ["alveoli", "bronchi", "bronchioles", "nares"]
+        answer: 'b'
+      - question: "A nosebleed is known as"
+        options: ["pleurisy", "atelectasis", "aspiration", "epistaxis"]
+        answer: 'd'
+      - question: "Snoring, squeaking, or whistling that suggests airway narrowing is known as"
+        options: ["sequela", "polyp", "rhonchi", "stridor"]
+        answer: 'd'
+      - question: "Difficult breathing is known as"
+        options: ["dysphonia", "dyspnea", "dysphagia", "dyspepsia"]
+        answer: 'b'
+      - question: "Pus in the chest cavity is called"
+        options: ["pyothorax", "polyp", "hemiplegia", "hemoptysis"]
+        answer: 'a'
+      - question: "Tapping various body surfaces with the finger or an instrument to determine sound density is known as"
+        options: ["vesicular sounds", "crepitation", "percussion", "rales"]
+        answer: 'c'
+      - question: "The potential space between the parietal and visceral pleura is the"
+        options: ["parenchyma", "stroma", "diaphragmatic space", "pleural space"]
+        answer: 'd'
+      - question: "The alveoli are"
+        options: ["branches of the bronchial tree", "flexible air sacs where gas exchange occurs", "divisions of the lung", "sacs that surround the lung"]
+        answer: 'b'
+      - question: "The epiglottis"
+        options: ["acts as a lid over the entrance to the esophagus", "acts as a lid over the entrance to the trachea", "is commonly known as the Adam’s apple", "is also known as the voice box"]
+        answer: 'b'
+      - question: "Which term means an abnormally rapid respiration rate?"
+        options: ["apnea", "bradypnea", "dyspnea", "tachypnea"]
+        answer: 'd'
+    matching:
+      - question: "Match the common term with the anatomical term."
+        pairs:
+          - term: "windpipe"
+            definition: "trachea"
+          - term: "throat"
+            definition: "pharynx"
+          - term: "voice box"
+            definition: "larynx"
+          - term: "chest"
+            definition: "thorax"
+          - term: "nostril"
+            definition: "naris"
+          - term: "cilia"
+            definition: "tiny hairs"
+          - term: "edema"
+            definition: "abnormally large amounts of fluid in the intercellular tissue spaces"
+          - term: "atelectasis"
+            definition: "incomplete expansion of the alveoli"
+          - term: "sequela"
+            definition: "condition following as a consequence of a disease"
+          - term: "anoxia"
+            definition: "absence of oxygen"
+          - term: "antitussive"
+            definition: "substance that controls or prevents coughing"
+          - term: "hemoptysis"
+            definition: "spitting up of blood from the lower respiratory tract"
+          - term: "acute"
+            definition: "occurring over a short course"
+          - term: "chronic"
+            definition: "occurring over a long course"
+          - term: "auscultation"
+            definition: "act of listening"
+    fill_in_the_blanks:
+      - question: "Ox/i, ox/o, and ox/y refer to _________________________________________ ."
+        answer: "oxygen"
+      - question: "Nas/o and rhin/o mean ___________________________________________ ."
+        answer: "nose"
+      - question: "Pulm/o and pulmon/o mean ________________________________________ ."
+        answer: "lung"
+      - question: "Pneum/o, pneumon/o, and pneu mean __________________________________ ."
+        answer: "air or lung"
+      - question: "Ventilation and breathing mean _______________________________________ ."
+        answer: "the process of moving air in and out of the lungs"
+    spelling:
+      - question: "Circle the term that is spelled correctly."
+        options: ["pnuemonia", "pneumonia", "pnuemohnia"]
+        answer: "pneumonia"
+      - question: "interruption of breathing resulting in lack of oxygen: asfyxiation asphixiation asphyxiation"
+        options: ["asfyxiation", "asphixiation", "asphyxiation"]
+        answer: "asphyxiation"
+      - question: "slimelike substance that is composed of glandular secretion, salts, cells, and leukocytes: mucous mukus mucus"
+        options: ["mucous", "mukus", "mucus"]
+        answer: "mucus"
+      - question: "chronic allergic disorder: astmah asthma asmah"
+        options: ["astmah", "asthma", "asmah"]
+        answer: "asthma"
+      - question: "muscle that separates the thoracic and abdominal cavities: diafragm diaphram diaphragm"
+        options: ["diafragm", "diaphram", "diaphragm"]
+        answer: "diaphragm"
+  - chapter: 11
+    multiple_choice:
+      - question: "The gland known as the master gland that helps maintain the appropriate levels of hormone in the body is the"
+        options: ["hypothalamus", "pituitary gland", "thyroid gland", "pancreas"]
+        answer: 'b'
+      - question: "The chemical substance secreted by the posterior pituitary gland that stimulates uterine contractions during parturition is"
+        options: ["prolactin", "luteinizing hormone", "ACTH", "oxytocin"]
+        answer: 'd'
+      - question: "The regulator of the endocrine system is the"
+        options: ["thyroid gland", "calcitonin", "hypothalamus", "parathyroid gland"]
+        answer: 'c'
+      - question: "Thyromegaly is"
+        options: ["enlargement of the thyroid gland", "augmentation of the thymus", "dissolution of the parathyroid glands", "radioactive iodine treatment of the thyroid gland"]
+        answer: 'a'
+      - question: "Surgical removal of a well-defined portion of an organ is a"
+        options: ["sacculectomy", "lumpectomy", "lobectomy", "cystectomy"]
+        answer: 'c'
+      - question: "An aggregation of cells specialized to secrete or excrete materials not related to their function is a"
+        options: ["hormone", "gland", "hypoadenum", "hyperadenum"]
+        answer: 'b'
+      - question: "Hypoadrenocorticism, a disorder caused by deficient adrenal cortex production of glucocorticoid, also is known as"
+        options: ["Cushing’s disease", "Graves’ disease", "Addison’s disease", "Langerhans’ disease"]
+        answer: 'c'
+      - question: "A tumor of the islets of Langerhans of the pancreas is called"
+        options: ["diabetes mellitus", "diabetes insipidus", "ketoacidosis", "insulinoma"]
+        answer: 'd'
+      - question: "The chemical substance that helps control circadian rhythm is"
+        options: ["circadianin", "pinealin", "melatonin", "thymin"]
+        answer: 'c'
+      - question: "Excessive mammary development in males is called"
+        options: ["feminum", "gynecomastia", "gyneconium", "feminomastia"]
+        answer: 'b'
+      - question: "Which of the following is a function of the thyroid gland?"
+        options: ["secretes thymosin", "secretes thyroid-stimulating hormone", "secretes corticosteroids", "secretes triiodothyronin, thyroxine, and calcitonin"]
+        answer: 'd'
+      - question: "What is another name for the anterior lobe of the pituitary gland?"
+        options: ["hypophysis", "epiphysis", "adenohypophysis", "neurohypophysis"]
+        answer: 'c'
+      - question: "Which hormone maintains water balance in the body by increasing water reabsorption in the kidney?"
+        options: ["insulin", "epinephrine", "antidiuretic hormone", "FSH"]
+        answer: 'c'
+      - question: "What is the name of a laboratory technique used to determine the amount of a particular substance in a sample?"
+        options: ["stimulation test", "synthetic test", "uptake test", "assay"]
+        answer: 'd'
+      - question: "An abnormally low blood glucose level is known as"
+        options: ["hyperglycemia", "hypoglycemia", "glucosemia", "diabetes mellitus"]
+        answer: 'b'
+      - question: "The condition of normal thyroid function is known as"
+        options: ["thyrotoxicosis", "thyromegaly", "euthyroidism", "thyroiditis"]
+        answer: 'c'
+      - question: "Which hormone transports blood glucose to the cells?"
+        options: ["glucagon", "insulin", "vasopressin", "melatonin"]
+        answer: 'b'
+      - question: "Glucocorticoids are secreted by the"
+        options: ["adrenal cortex", "adrenal medulla", "parathyroid gland", "pancreas"]
+        answer: 'a'
+      - question: "The pituitary gland acts in response to stimuli from the"
+        options: ["hypothalamus", "thymus", "parathyroid glands", "thyroid gland"]
+        answer: 'a'
+      - question: "The word part that means to secrete or separate is"
+        options: ["endo", "-crine", "hormon/o", "aden/o"]
+        answer: 'b'
+    matching:
+      - question: "Match the endocrine term with the correct description."
+        pairs:
+          - term: "adrenals"
+            definition: "two small glands located on top of each kidney"
+          - term: "thyroid"
+            definition: "butterfly-shaped gland on either side of the larynx"
+          - term: "thymus"
+            definition: "gland located dorsal to the sternum"
+          - term: "pancreas"
+            definition: "contains specialized cells that secrete hormones that affect sugar and starch metabolism"
+          - term: "pituitary"
+            definition: "small gland at the base of the brain"
+          - term: "parathyroid"
+            definition: "secretes hormone that reduces bone calcium levels and regulates phosphorus"
+          - term: "pineal"
+            definition: "secretes melatonin"
+          - term: "gonads"
+            definition: "gamete-producing glands"
+          - term: "thyroidectomy"
+            definition: "surgical removal of the thyroid gland"
+          - term: "hyperthyroidism"
+            definition: "condition of excessive thyroid hormone"
+          - term: "diabetes mellitus"
+            definition: "insufficient secretion of insulin or recognition of insulin"
+          - term: "diabetes insipidus"
+            definition: "insufficient antidiuretic hormone"
+          - term: "adrenopathy"
+            definition: "disease of the adrenal gland"
+          - term: "acidosis"
+            definition: "abnormal condition of low pH"
+          - term: "glucagon"
+            definition: "hormone that increases blood glucose"
+          - term: "hypocalcemia"
+            definition: "abnormally low blood calcium levels"
+          - term: "insulinoma"
+            definition: "tumor of the islet of Langerhans cells of the pancreas"
+          - term: "hypercrinism"
+            definition: "condition of excessive gland secretion"
+    fill_in_the_blanks:
+      - question: "Thyr/o and thyroid/o mean _________________________________________ ."
+        answer: "thyroid gland"
+      - question: "Adren/o and adrenal/o mean ________________________________________ ."
+        answer: "adrenal gland"
+      - question: "-trophic means _________________________________________________ ."
+        answer: "pertaining to growth or nourishment"
+      - question: "Lute/o means _________________________________________________ ."
+        answer: "yellow"
+      - question: "Somat/o means ________________________________________________ ."
+        answer: "body"
+    spelling:
+      - question: "Circle the term that is spelled correctly."
+        options: ["pancrease", "pancreus", "pancreas"]
+        answer: "pancreas"
+      - question: "substance that increases urine secretion: dyuretic diyuretic diuretic"
+        options: ["dyuretic", "diyuretic", "diuretic"]
+        answer: "diuretic"
+      - question: "gland located at the base of the brain: pitwoitary pituitary pitootary"
+        options: ["pitwoitary", "pituitary", "pitootary"]
+        answer: "pituitary"
+      - question: "part of the brain that controls secretions of the pituitary gland: hypothalamus hypothalmus hypothalmis"
+        options: ["hypothalamus", "hypothalmus", "hypothalmis"]
+        answer: "hypothalamus"
+      - question: "gamete-producing glands: gonids gonads goknads"
+        options: ["gonids", "gonads", "goknads"]
+        answer: "gonads"
+  - chapter: 12
+    multiple_choice:
+      - question: "The inner layer of the uterus is called the"
+        options: ["endohysteria", "myometrium", "perimetrium", "endometrium"]
+        answer: 'd'
+      - question: "The area between the vaginal orifice or scrotum and the anus is called the"
+        options: ["clitoris", "perineum", "vulva", "inguinal area"]
+        answer: 'b'
+      - question: "Copulation also is called"
+        options: ["coitus", "impotence", "sterility", "zygote"]
+        answer: 'a'
+      - question: "The act of giving birth is"
+        options: ["freshening", "calving", "gestation", "parturition"]
+        answer: 'd'
+      - question: "A difficult birth is known as"
+        options: ["dystocia", "dyshernia", "dyspartia", "dyslaboratum"]
+        answer: 'a'
+      - question: "A false pregnancy also is called"
+        options: ["pseudo", "pseudopara", "pseudocyesis", "pseudogestia"]
+        answer: 'c'
+      - question: "A condition of an individual having both ovarian and testicular tissue is called"
+        options: ["hemisexual", "hermaphroditism", "supernumerary", "orchioovaris"]
+        answer: 'b'
+      - question: "Pyometra is"
+        options: ["pus in the uterus", "increased temperature of the uterus", "tumors in the uterus", "necrosis of the uterus"]
+        answer: 'a'
+      - question: "The innermost membrane enveloping the embryo in the uterus is the"
+        options: ["allantois", "umbilicus", "amnion", "chorion"]
+        answer: 'c'
+      - question: "Attachment and embedding of the zygote in the uterus is"
+        options: ["zygotion", "conception", "fertilization", "implantation"]
+        answer: 'd'
+      - question: "The ovum is the"
+        options: ["female gonad", "male gonad", "female gamete", "male gamete"]
+        answer: 'c'
+      - question: "The heat cycle in females is known as the"
+        options: ["estrus cycle", "estrous cycle", "lactogenic cycle", "follicular cycle"]
+        answer: 'b'
+      - question: "In large animals, the mammary gland is called the"
+        options: ["teat", "mammae", "lactiferous duct", "udder"]
+        answer: 'd'
+      - question: "The female organ of mammals that develops during pregnancy and joins the mother and offspring for exchange of nutrients, oxygen, and waste products is known as the"
+        options: ["umbilicus", "placenta", "mount", "navel"]
+        answer: 'b'
+      - question: "Substances that produce change or that create genetic abnormalities are known as"
+        options: ["teratogens", "priapisms", "dystociae", "mutagens"]
+        answer: 'd'
+      - question: "Reproductive organs, whether male or female, are called the"
+        options: ["theriogens", "genitals", "gametes", "perineum"]
+        answer: 'b'
+      - question: "An enlarged part of a tube or canal is called a(n)"
+        options: ["vesicle", "bulla", "ampulla", "motile"]
+        answer: 'c'
+      - question: "The term for surgical incision of the perineum and vagina to facilitate delivery of the fetus and to prevent damage to maternal structures is"
+        options: ["mastectomy", "cesarean section", "episiotomy", "oophorectomy"]
+        answer: 'c'
+      - question: "An animal that has not been neutered is referred to as"
+        options: ["sterile", "gravid", "intact", "cyesis"]
+        answer: 'c'
+      - question: "Another term for spay is"
+        options: ["orchidectomy", "ovariohysterectomy", "C-section", "hysterectomy"]
+        answer: 'b'
+    matching:
+      - question: "Match the term with the definition."
+        pairs:
+          - term: "gestation"
+            definition: "period of pregnancy"
+          - term: "sterility"
+            definition: "inability to reproduce"
+          - term: "dystocia"
+            definition: "difficult birth"
+          - term: "viviparous"
+            definition: "bearing live young"
+          - term: "oviparous"
+            definition: "bearing eggs"
+          - term: "allantois"
+            definition: "innermost layer of the placenta"
+          - term: "chorion"
+            definition: "outermost layer of the placenta"
+          - term: "parturition"
+            definition: "act of giving birth"
+          - term: "colostrum"
+            definition: "thick fluid that contains nutrients and antibodies needed by neonates, which is secreted by the mother’s mammary glands"
+          - term: "abortion"
+            definition: "termination of pregnancy"
+    fill_in_the_blanks:
+      - question: "Colop/o and vagin/o mean ________________________ ."
+        answer: "vagina"
+      - question: "Hyster/o, metr/o, metri/o, and uter/o mean ________________________ ."
+        answer: "uterus"
+      - question: "Pen/i and priap/o mean ________________________ ."
+        answer: "penis"
+      - question: "Orch/o, orchi/o, orchid/o, test/o, and testicul/o mean ________________________ ."
+        answer: "testes"
+      - question: "Sperm/o and spermat/o mean ________________________ ."
+        answer: "sperm"
+    spelling:
+      - question: "Circle the term that is spelled correctly."
+        options: ["cryptorchidism", "criptorchidism", "cryptorchydism"]
+        answer: "cryptorchidism"
+      - question: "inflammation of the mammary glands: mastis mastitis masitits"
+        options: ["mastis", "mastitis", "masitits"]
+        answer: "mastitis"
+      - question: "fertilized egg: zigoat zygoat zygote"
+        options: ["zigoat", "zygoat", "zygote"]
+        answer: "zygote"
+      - question: "pregnancy: syesis cyesis ciesis"
+        options: ["syesis", "cyesis", "ciesis"]
+        answer: "cyesis"
+      - question: "to sexually alter: neuter nueter newter"
+        options: ["neuter", "nueter", "newter"]
+        answer: "neuter"
