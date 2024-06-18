@@ -249,16 +249,16 @@ chapters:
       - question: "Circle the term that is spelled correctly."
         options: ["vulvulus", "volvulus", "volvolus"]
         answer: "volvulus"
-      - question: "inability to relax the smooth muscles of the digestive tract: achalsia achalasia achaelasia"
+      - question: "inability to relax the smooth muscles of the digestive tract."
         options: ["achalsia", "achalasia", "achaelasia"]
         answer: "achalasia"
-      - question: "yellow discoloration of the skin and mucous membranes: jaundise jawndise jaundice"
+      - question: "yellow discoloration of the skin and mucous membranes."
         options: ["jaundise", "jawndise", "jaundice"]
         answer: "jaundice"
-      - question: "remove or expose internal organs: eviserate eviscerate evicerate"
+      - question: "remove or expose internal organs."
         options: ["eviserate", "eviscerate", "evicerate"]
         answer: "eviscerate"
-      - question: "abnormal accumulation of fluid in the abdomen: ascites asites ascetes"
+      - question: "abnormal accumulation of fluid in the abdomen."
         options: ["ascites", "asites", "ascetes"]
         answer: "ascites"
   - chapter: 7
@@ -381,16 +381,16 @@ chapters:
       - question: "Circle the term that is spelled correctly."
         options: ["urinanalysis", "urinalysis", "urinealisis"]
         answer: "urinalysis"
-      - question: "functional unit of the kidney: nephron nefron nephrone"
+      - question: "functional unit of the kidney."
         options: ["nephron", "nefron", "nephrone"]
         answer: "nephron"
-      - question: "constant internal environment: homostasis homeostasis homeostatis"
+      - question: "constant internal environment."
         options: ["homostasis", "homeostasis", "homeostatis"]
         answer: "homeostasis"
-      - question: "excessive thirst: polydipsia polydypsia polydyspsia"
+      - question: "excessive thirst."
         options: ["polydipsia", "polydypsia", "polydyspsia"]
         answer: "polydipsia"
-      - question: "abnormal mineral deposit: calkulus kalkulus calculus"
+      - question: "abnormal mineral deposit."
         options: ["calkulus", "kalkulus", "calculus"]
         answer: "calculus"
   - chapter: 8
@@ -508,16 +508,16 @@ chapters:
       - question: "Circle the term that is spelled correctly."
         options: ["cianosis", "cyianosis", "cyanosis"]
         answer: "cyanosis"
-      - question: "below-normal levels of carbon dioxide: hypokapnea hypocapnia hypocapnea"
+      - question: "below-normal levels of carbon dioxide."
         options: ["hypokapnea", "hypocapnia", "hypocapnea"]
         answer: "hypocapnia"
-      - question: "widening of a vessel: vasodialation vasodilation vasodilatation"
+      - question: "widening of a vessel."
         options: ["vasodialation", "vasodilation", "vasodilatation"]
         answer: "vasodilation"
-      - question: "relaxation of the heart: diastole diastoly diastooly"
+      - question: "relaxation of the heart."
         options: ["diastole", "diastoly", "diastooly"]
         answer: "diastole"
-      - question: "contraction of the ventricles: systole sistolle sistole"
+      - question: "contraction of the ventricles."
         options: ["systole", "sistolle", "sistole"]
         answer: "systole"
   - chapter: 9
@@ -630,16 +630,16 @@ chapters:
       - question: "Circle the term that is spelled correctly."
         options: ["pnuemonia", "pneumonia", "pnuemohnia"]
         answer: "pneumonia"
-      - question: "interruption of breathing resulting in lack of oxygen: asfyxiation asphixiation asphyxiation"
+      - question: "interruption of breathing resulting in lack of oxygen."
         options: ["asfyxiation", "asphixiation", "asphyxiation"]
         answer: "asphyxiation"
-      - question: "slimelike substance that is composed of glandular secretion, salts, cells, and leukocytes: mucous mukus mucus"
+      - question: "slimelike substance that is composed of glandular secretion, salts, cells, and leukocytes."
         options: ["mucous", "mukus", "mucus"]
         answer: "mucus"
-      - question: "chronic allergic disorder: astmah asthma asmah"
+      - question: "chronic allergic disorder."
         options: ["astmah", "asthma", "asmah"]
         answer: "asthma"
-      - question: "muscle that separates the thoracic and abdominal cavities: diafragm diaphram diaphragm"
+      - question: "muscle that separates the thoracic and abdominal cavities."
         options: ["diafragm", "diaphram", "diaphragm"]
         answer: "diaphragm"
   - chapter: 11
@@ -758,16 +758,16 @@ chapters:
       - question: "Circle the term that is spelled correctly."
         options: ["pancrease", "pancreus", "pancreas"]
         answer: "pancreas"
-      - question: "substance that increases urine secretion: dyuretic diyuretic diuretic"
+      - question: "substance that increases urine secretion."
         options: ["dyuretic", "diyuretic", "diuretic"]
         answer: "diuretic"
-      - question: "gland located at the base of the brain: pitwoitary pituitary pitootary"
+      - question: "gland located at the base of the brain."
         options: ["pitwoitary", "pituitary", "pitootary"]
         answer: "pituitary"
-      - question: "part of the brain that controls secretions of the pituitary gland: hypothalamus hypothalmus hypothalmis"
+      - question: "part of the brain that controls secretions of the pituitary gland."
         options: ["hypothalamus", "hypothalmus", "hypothalmis"]
         answer: "hypothalamus"
-      - question: "gamete-producing glands: gonids gonads goknads"
+      - question: "gamete-producing glands."
         options: ["gonids", "gonads", "goknads"]
         answer: "gonads"
   - chapter: 12
