@@ -230,7 +230,7 @@ fn main() {
     } else {
         let mut rng = thread_rng();
         all_questions.shuffle(&mut rng);
-        let num_questions: usize = get_user_input("").trim().parse().unwrap_or(5);
+        let num_questions: usize = input.trim().parse().unwrap_or(5);
         0..num_questions
     };
 
