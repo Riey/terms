@@ -870,15 +870,15 @@ chapters:
       - question: "developmental defect in which one or both testes fail to descend into the scrotum."
         options: ["cryptorchidism", "criptorchidism", "cryptorchydism"]
         answer: "cryptorchidism"
-      - question: "inflammation of the mammary glands: mastis mastitis masitits"
+      - question: "inflammation of the mammary glands."
         options: ["mastis", "mastitis", "masitits"]
         answer: "mastitis"
-      - question: "fertilized egg: zigoat zygoat zygote"
+      - question: "fertilized egg."
         options: ["zigoat", "zygoat", "zygote"]
         answer: "zygote"
-      - question: "pregnancy: syesis cyesis ciesis"
+      - question: "pregnancy."
         options: ["syesis", "cyesis", "ciesis"]
         answer: "cyesis"
-      - question: "to sexually alter: neuter nueter newter"
+      - question: "to sexually alter."
         options: ["neuter", "nueter", "newter"]
         answer: "neuter"
